@@ -1,0 +1,25 @@
+figcaption {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+figure {
+    text-align: center;
+}
+
+#figC {
+    text-decoration: none;
+    color: black;
+}
+
+#figC:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
+#figC:visited {
+    color: purple;
+}

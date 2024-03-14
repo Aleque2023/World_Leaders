@@ -4,6 +4,8 @@ figcaption {
 
 table {
     width: 100%;
+    background-color: lightgray;
+    margin-top: 25px;
 }
 
 figure {
@@ -15,11 +17,15 @@ figure {
     color: black;
 }
 
-#figC:hover {
-    color: crimson;
-    text-decoration: underline;
-}
-
 #figC:visited {
     color: purple;
+}
+
+#figC:hover {
+    text-decoration: underline;
+    color: crimson;
+}
+
+tr {
+    margin-bottom: 15%;
 }

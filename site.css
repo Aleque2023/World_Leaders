@@ -1,11 +1,15 @@
+html {
+    background-color: lightgray;
+}
+
 figcaption {
     text-align: center;
 }
 
 table {
     width: 100%;
-    background-color: lightgray;
     margin-top: 25px;
+    margin-bottom: 200px;
 }
 
 figure {
@@ -28,4 +32,17 @@ figure {
 
 tr {
     margin-bottom: 15%;
+}
+
+footer {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
+
+footer p {
+    color: white;
+    margin-top: 0%;
 }
